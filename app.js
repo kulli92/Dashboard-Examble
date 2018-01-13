@@ -1,5 +1,3 @@
-// 4. make bar chart
-// 5. tooltip!
 
 d3.queue()
   .defer(d3.json, "https://unpkg.com/world-atlas@1.1.4/world/50m.json")
