@@ -100,3 +100,6 @@ footer{
   font-size:2em;
   text-align: center;
 }
+#map {
+  vertical-align: bottom;
+}
